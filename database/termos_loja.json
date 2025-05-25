@@ -1,0 +1,31 @@
+{
+    "reembolso": {
+                    "prazo": "5 dias úteis",
+                    "condicoes": [
+                        "Jogo não pode ter mais de 2 horas jogadas",
+                        "Deve ser solicitado através do suporte",
+                        "Não se aplica a jogos em promoção com desconto acima de 50%"
+                    ],
+                    "texto_completo": "Você pode solicitar reembolso em até 5 dias úteis dias após a compra, desde que o jogo tenha menos de 2 horas jogadas. Jogos com desconto acima de 50% não são elegíveis para reembolso."
+                },
+    "garantia": {
+                    "prazo": "27 dias corridos",
+                    "cobertura": "Defeitos técnicos e problemas de compatibilidade",
+                    "texto_completo": "Oferecemos garantia de 27 dias corridos para problemas técnicos e incompatibilidade com seu sistema."
+    },
+    "entrega": {
+                    "digital": "Imediata após confirmação do pagamento",
+                    "fisica": "5-10 dias úteis",
+                    "texto_completo": "Jogos digitais são entregues imediatamente após confirmação do pagamento. Produtos físicos chegam em 5-10 dias úteis."
+    },
+    "suporte": {
+                    "horario": "Segunda a sexta, 10h às 17h. Sábado e domingo, fechado.",
+                    "canais": ["Email: suporte@hyrumgames.com", "Chat ao vivo", "Telefone: (41) 9661-2163"],
+                    "texto_completo": "Nosso suporte funciona de segunda a sexta, das 10h às 17h. Você pode nos contatar por email, chat ou telefone."
+    },
+    "pagamento": {
+                    "metodos": ["Cartão de crédito", "PIX", "Boleto bancário", "PayPal", "Transferência bancária", "Criptomoedas"],
+                    "parcelamento": "Até 24x sem juros no cartão",
+                    "texto_completo": "Aceitamos cartão de crédito (até 24x sem juros), PIX, boleto bancário, PayPal, Transferência bancária e Criptomoedas ."
+    }
+}
